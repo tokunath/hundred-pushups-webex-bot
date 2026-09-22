@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local databases
+pushups.db
+*.db
+*.sqlite3
+
+# macOS files
+.DS_Store
